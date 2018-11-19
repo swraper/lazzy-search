@@ -33,8 +33,8 @@
     console.log(list)
 
 
-# Github地址：(https://github.com/swraper/tableToExcel.git).
-# npm地址：(https://www.npmjs.com/package/list-to-excel).
+# Github地址：(https://github.com/swraper/lazzy-search.git).
+# npm地址：(https://www.npmjs.com/package/lazzy-search).
 
 # version 1.0.0
     模糊查询，可用作输入项模糊查询展示数据列表等。
