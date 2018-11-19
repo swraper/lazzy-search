@@ -29,7 +29,7 @@
         },
     ]
     const text = '张';
-    const list = GetSearch(text, peoples,'name');
+    const list = search(text, peoples,'name');
     console.log(list)
 
 
