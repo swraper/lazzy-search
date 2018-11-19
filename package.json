@@ -1,0 +1,20 @@
+{
+  "name": "lazzy-search",
+  "version": "1.0.0",
+  "description": "npm Component",
+  "main": "index.js",
+  "directories": {
+    "lib": "index"
+  },
+  "scripts": {
+    "start": "cross-env NODE_ENV=development SERVER_ENV=dev LOCAL=true webpack-dev-server --mode development --open --progress",
+    "build:prod": "cross-env NODE_ENV=production SERVER_ENV=prod webpack --mode production --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qingshan",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
