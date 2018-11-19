@@ -8,10 +8,10 @@
 
     模糊查询，返回查询结果。
 
-## 使用
+## 安装
 > npm install lazzy-search --save
 
-# 导出excel
+## 使用
     import search from lazzy-search;
 
     const peoples = [
